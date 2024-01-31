@@ -36,7 +36,7 @@ include('conn/conn.php');
 <body>
     
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark col-12">
-        <a class="navbar-brand" href="#">Take-Note App</a>
+        <a class="navbar-brand" href="#">Take-Note Appssss</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -45,7 +45,7 @@ include('conn/conn.php');
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Account
+                        Accountss
                     </a>
                 </li>
                
