@@ -1,6 +1,6 @@
 <?php
 
-$servername = "localhost";
+$servername = "database-1.cfwy08qw0bkl.ap-south-1.rds.amazonaws.com";
 $username = "root";
 $password = "";
 $db = "take_note_db";
